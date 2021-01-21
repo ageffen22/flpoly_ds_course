@@ -3,20 +3,21 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Lean Operations Management
 
-- Course 2
+- Introduction to Data Science 
 
-- Course 3
+- Health Systems Modeling and Optimization 
 
-- Course 4
+- Entrepreneurial Opportunity Analysis
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Learning the truth 
 
-- Thing 2
+- Anime / Manga 
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
+(Poly !!!)
