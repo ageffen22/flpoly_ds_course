@@ -15,7 +15,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Learning the truth 
+- Learning about developing technology 
 
 - Anime / Manga 
 
