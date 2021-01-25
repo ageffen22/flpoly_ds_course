@@ -19,5 +19,4 @@ I am _passionate about_:
 
 - Anime / Manga 
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
-(Poly !!!)
+- Doing my best at Florida Poly !
