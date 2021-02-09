@@ -3,8 +3,9 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-| Spring 2021 Enrolled Courses            |
+
 | :----:		                              |
+| _Spring 2021 Enrolled Courses_           |
 |Lean Operations Management               |
 |Introduction to Data Science             |
 |Health Systems Modeling and Optimization |
