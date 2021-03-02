@@ -12,10 +12,19 @@ During class you completed an activity in which you practiced `git` commands and
 
 In this exercise you are asked to modify the `flpoly_student.md` file you worked during class, and format it using the **markdown** tools discussed in class. You must **create a table** that shows the courses you are currently enrolled in, using for the headers of the table: 
 
-- Prefix: in bold letters (such as **COP**)
-- Number: in bold letters (such as **2073**)
-- Name: in italics (such as _Introduction to Data Science_)
-- Credits (such as 3)
+| # Lean Operations Management           |
+| :----:		                  |
+|Kaizen               |
+|Kanban               |
+|Lean thinking and implementation              |
+|[](https://www.investopedia.com/terms/k/kaizen.asp#:~:text=Kaizen%20is%20a%20Japanese%20term,a%20gradual%20and%20methodical%20process.) |
+
+| # Health Services Engineering            |
+| :----:		                  |
+|Hurwitz Method and data analysis              |
+|EOL and EOC            |
+|Learning how to create pivot tables in Excel|
+|[](https://www.javatpoint.com/control-system-routh-hurwitz-stability-criterion#:~:text=Routh%20Hurwitz%20criterion%20states%20that,characteristic%20equation%20in%20the%20right)| 
 
 a. Make sure your GitHub repo (`flpoly_ds_course/`) shows the results of your updated file (remember to use the commands `git add .` , `git commit -m "YOUR MESSAGE"`, and `git push`) 
 
@@ -37,11 +46,19 @@ _Edit this `.Rmd` file to include the solutions here._
 In this problem you will practice some basic R operations. Include solutions to each items by inserting a new R chunk of code (make sure you run the chunk so that the output is displayed)
 
 (a) Create a variable called `my_name` that contains your preferred name.
+```{r}
+my_name <- "Arden Geffen"
+```
 
 (b) Create a variable called `name_length` that holds how many letters are in `my_name`.
-
+```{r}
+name_length <- nchar(my_name)
+```
 (c) Show which value is bigger: $e^\pi$ or $\pi^e$. 
+```{r}
+biggest_number <- 
 
+```
 (d) Define a function called `add_tree` that takes a single argument and returns a value 3 times larger than the input.
 
 (e) Use the colon operator `:` to create a vector `v` of numbers from 10 to 49. Find the length of this vector using the `length()` function.
